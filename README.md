@@ -12,7 +12,6 @@ I'm a Full Stack Developer and Software Engineer passionate about technology and
 - 🚀 I have experience contributing to the development of projects.
 - 🌐 I have skills in web and mobile development.
 - 👯 I’m looking forward to collaborate on open source projects.
-- :thinking: I’m currently open for a new `job opportunity`, this is MY RESUME.
 
 <br>
 
